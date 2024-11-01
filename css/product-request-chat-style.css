@@ -1,0 +1,8 @@
+@charset "UTF-8";
+/* CSS Document */
+
+/* button */
+.prc-button{ display: block; width: fit-content; width: -moz-fit-content; background-color: rgba(0, 0, 0, 0.01); margin: 10px; padding: 10px 20px; border-radius: 25px; border: solid 2px #7ad06d; font-size: 100%; font-weight: normal; text-align: -webkit-center; text-align: center; }
+a.prc-button{ color: #777; text-decoration: none !important; font-weight: 400; }
+a.prc-button:hover { color: #555; }
+.prc-button img{ display: inline-block; width: 24px; height: auto; vertical-align: middle; margin-right: 2px; }
